@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000013",
-	"version": "1.0.202004031325",
+	"version": "1.0.202004170859",
 	"description": "获取设备唯一编号",
 	"scripts": {
 		"test": "tsc -w",
